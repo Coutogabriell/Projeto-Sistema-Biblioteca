@@ -48,13 +48,13 @@ O sistema foi implementado em Java, utilizando como estrutura principal uma list
 
 # 🛠️ Estrutura do projeto
 
-Biblioteca.java	-----> Gerencia a coleção de livros e as operações de busca/ordenação/remover
+Biblioteca.java	-------> Gerencia a coleção de livros e as operações de busca/ordenação/remover
 
-Livro.java ----->	Representa a entidade livro
+Livro.java ------->	Representa a entidade livro
 
-Validador.java ----->	Valida os dados informados pelo usuário
+Validador.java ------->	Valida os dados informados pelo usuário
 
-Main.java -----> Menu e interação via console
+Main.java -------> Menu e interação via console
 
 # 📌 Observações
 
